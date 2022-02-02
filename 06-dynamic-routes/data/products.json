@@ -1,0 +1,16 @@
+[
+  {
+    "title": "First Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "My First Book Publish",
+    "price": "09.25",
+    "id": "0.6224277229438271"
+  },
+  {
+    "title": "Second Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "Second Publish",
+    "price": "79.85",
+    "id": "0.9746635080865622"
+  }
+]
